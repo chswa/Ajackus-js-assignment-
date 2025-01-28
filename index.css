@@ -1,0 +1,61 @@
+.form-heading {
+  font-family: 'Roboto';
+  font-size: 36px;
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+
+.error-message {
+  color: #dc3545;
+  font-family: 'Roboto';
+  font-size: 14px;
+}
+
+.user-container {
+  width: 100%;
+  border: 1px solid grey;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.user-name {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.user-email {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.user-department {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.users-container {
+  padding: 10px;
+}
+
+.app-container {
+  background-image: linear-gradient(#ffb800, #2dca73);
+}
+
+.add-user-container {
+  width: 50%;
+}
+
+.users-container {
+  width: 100%;
+}
+
+.user-details-con {
+  width: 60%;
+}
+
+.user-action-container {
+  width: 40%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
